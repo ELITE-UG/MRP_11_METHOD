@@ -1477,3 +1477,14 @@ if df_workbench is not None and not df_workbench.empty:
     )
 else:
     st.info("Please initialize input values or upload transaction vectors to run calculation routines.")
+
+st.markdown("---")
+
+st.markdown("""
+<div style='text-align:center; color:gray; font-size:13px;'>
+<b>MRP Lot Sizing Calculator</b><br>
+Developed by ELITE UG Laboratory<br>
+Industrial Engineering Department<br>
+© 2026 All Rights Reserved
+</div>
+""", unsafe_allow_html=True)
