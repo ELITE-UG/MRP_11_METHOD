@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 import io
+import image
 
 # ==========================================
 # 1. PAGE CONFIGURATION & CLEAN CSS OVERRIDE
