@@ -83,8 +83,17 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📦 MRP Lot Sizing Calculator")
-st.markdown("---")
+col1, col2 = st.columns([1,5])
+
+with col1:
+    st.image(
+        "https://drive.google.com/drive/folders/1w7ogp69czIyWZ25mMgvcL3Kug8_G6Jlj",
+        width=120
+    )
+
+with col2:
+    st.title("MRP Lot Sizing Calculator")
+    st.caption("Material Requirement Planning System")
 
 
 # ==========================================
