@@ -4,6 +4,5 @@ numpy
 matplotlib
 plotly
 openpyxl
-matplotlib.pyplot
 math
 io
