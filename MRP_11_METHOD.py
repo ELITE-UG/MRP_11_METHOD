@@ -88,12 +88,12 @@ col1, col2 = st.columns([1,5])
 with col1:
     st.image(
         "https://github.com/ELITE-UG/MRP_11_METHOD/blob/main/ELITE%20UG%20(Original)%20(1).png",
-        width=120
+        width=130
     )
 
 with col2:
-    st.title("MRP Lot Sizing Calculator")
-    st.caption("Material Requirement Planning System")
+    st.title("MATERIAL REQUIREMENT PLANNING SYSTEM")
+    st.caption("11 Method Lot Sizing")
 
 
 # ==========================================
