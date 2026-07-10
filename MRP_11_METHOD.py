@@ -1482,9 +1482,8 @@ st.markdown("---")
 
 st.markdown("""
 <div style='text-align:center; color:gray; font-size:13px;'>
-<b>MRP Lot Sizing Calculator</b><br>
-Developed by ELITE UG Laboratory<br>
-Industrial Engineering Department<br>
+<b>Material Requirement Planning</b><br>
+Developed by Elementary Laboratory of Industrial Engineering<br>
 © 2026 All Rights Reserved
 </div>
 """, unsafe_allow_html=True)
