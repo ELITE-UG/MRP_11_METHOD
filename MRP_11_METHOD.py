@@ -1484,6 +1484,6 @@ st.markdown("""
 <div style='text-align:center; color:gray; font-size:13px;'>
 <b>Material Requirement Planning</b><br>
 Developed by Elementary Laboratory of Industrial Engineering<br>
-© 2026 All Rights Reserved
+© ELITE UG
 </div>
 """, unsafe_allow_html=True)
