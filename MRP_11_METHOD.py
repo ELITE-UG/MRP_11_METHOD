@@ -87,7 +87,7 @@ col1, col2 = st.columns([1,5])
 
 with col1:
     st.image(
-        "https://drive.google.com/drive/folders/1w7ogp69czIyWZ25mMgvcL3Kug8_G6Jlj",
+        "https://github.com/ELITE-UG/MRP_11_METHOD/blob/main/ELITE%20UG%20(Original)%20(1).png",
         width=120
     )
 
