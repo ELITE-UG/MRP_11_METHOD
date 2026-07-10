@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 import io
-import image
 
 # ==========================================
 # 1. PAGE CONFIGURATION & CLEAN CSS OVERRIDE
@@ -87,10 +86,9 @@ st.markdown("""
 col1, col2 = st.columns([1,5])
 
 with col1:
-    st.image(
-        "https://github.com/ELITE-UG/MRP_11_METHOD/blob/main/ELITE%20UG%20(Original)%20(1).png",
-        width=130
-    )
+    url_gambar = "elite ug (original).png"
+    st.image(url_gambar, width=95)
+    
 
 with col2:
     st.title("MATERIAL REQUIREMENT PLANNING SYSTEM")
