@@ -86,8 +86,9 @@ st.markdown("""
 col1, col2 = st.columns([1,5])
 
 with col1:
-    url_gambar = "elite ug (original).png"
-    st.image(url_gambar, width=95)
+    st.image("https://github.com/ELITE-UG/MRP_11_METHOD/blob/main/ELITE%20UG%20(Original)%20(1).png", 
+             width=120
+            )
     
 
 with col2:
