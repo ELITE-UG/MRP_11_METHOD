@@ -1481,7 +1481,7 @@ else:
 st.markdown("---")
 
 st.markdown("""
-<div style='text-align:center; color:gray; font-size:13px;'>
+<div style='text-align:center; color:Maroon; font-size:13px;'>
 <b>Material Requirement Planning</b><br>
 Developed by Elementary Laboratory of Industrial Engineering<br>
 © ELITE UG
