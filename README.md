@@ -13,3 +13,5 @@ Least Unit Cost (LUC)
 Part Period Balancing (PPB)
 Silver-Meal (SM)
 Wagner-Whitin (WW)
+Link Streamlit :
+https://labdasar-mrp11method.streamlit.app/
